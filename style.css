@@ -1,0 +1,46 @@
+head{
+    background-color: #ECE8D9;
+}
+head ul{
+    text-decoration: none;
+}
+#hov:hover{
+    cursor: pointer;
+
+transform: scale(1.06);
+}
+#scdnav{
+    position: sticky;
+}
+#hand {
+margin-left: 300px;
+}
+#quality{
+    margin-left: 60px;
+}
+
+#niger{
+    margin-top: 100px;
+    margin-left: 20px;
+    padding-bottom: 90px;
+
+}
+article{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #EDF6FD;
+}
+#box{
+    background-color:white;
+    padding: 10px;
+    width: 380px;
+    height: 180px;
+}
+#blue{
+    color: #1DA1F4;
+}
+#size{
+    font-size:20px;
+}
