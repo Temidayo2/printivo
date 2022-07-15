@@ -82,3 +82,24 @@ a{
     padding-left: 35%;
     /* margin-bottom: 45px; */
 }
+ /* @media screen and (max-width: 480px){
+     #header{
+         width:150%;
+         background-color: red;
+         display: none;
+         justify-content: center;
+     }
+     #footer2{
+         /* background-color: red; */
+         width: 150%;
+     }
+     .card{
+         background-color: red;
+         width: 90%;
+     }
+     #footer1{
+         /* background-color: red; */
+         width: 200%;
+     }
+     
+ } */
