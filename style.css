@@ -1,3 +1,6 @@
+header{
+    position:-webkit-sticky fixed;
+}
 head{
     background-color: #ECE8D9;
 }
@@ -18,7 +21,10 @@ margin-left: 300px;
 #quality{
     margin-left: 60px;
 }
-
+#sch{
+    margin-left: 550px;
+    margin-top: -50px;
+}
 #niger{
     margin-top: 100px;
     margin-left: 20px;
@@ -81,4 +87,48 @@ a{
     padding-bottom: 50px;
     padding-left: 35%;
     /* margin-bottom: 45px; */
+}
+@media screen and (max-width:480px){
+    #footer2{
+        width: 100vw;
+
+    }
+    #footer1{
+        width: -200vw;
+        display: flex;
+        flex-direction: column;
+    }
+    #lastbox{
+        width: 150%;
+    }
+    #boxx1{
+        width: -200vw;
+        display: flex;
+        /* flex-direction: column; */
+    }
+    #lastbox2{
+        width: 150px;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    #cardd{
+        width: 65vw;
+    }
+    #tech{
+        width: -150%;
+        display:flex;
+        flex-direction: column;
+    }
+    #you{
+        width: 150%;
+    }
+    #container1{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        /* justify-content: center; */
+        /* align-items: center; */
+        /* border: 1px solid red; */
+    }
 }
